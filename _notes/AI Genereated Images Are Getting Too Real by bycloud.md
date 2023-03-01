@@ -1,5 +1,5 @@
-
 ---
+title: "AI Genereated Images Are Getting Too Real by bycloud"
 tags: media/video
 title: "AI Genereated Images Are Getting Too Real"
 creator: "bycloud"

@@ -1,3 +1,6 @@
+---
+title: "0 Note Taking Reference Guide"
+---
 # Note Taking Reference Guide
 ## Shortcuts:
 alt+q: make alpha and beta notes

@@ -1,3 +1,6 @@
+---
+title: "Make Content"
+---
 <%* 
 const mediatype = await tp.system.suggester(["Album","Article","Book","Film","Journal","Video"], ["Album", "Article","Book","Film","Journal","Video"])
 

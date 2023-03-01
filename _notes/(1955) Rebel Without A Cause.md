@@ -1,5 +1,5 @@
-
 ---
+title: "(1955) Rebel Without A Cause"
 tags: media/film
 title: "Rebel Without A Cause"
 year: "1955" 

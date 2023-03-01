@@ -1,3 +1,6 @@
+---
+title: "Content Article"
+---
 <%*
 const URL = await tp.system.prompt("URL?")
 const title = await tp.system.prompt("Title?")

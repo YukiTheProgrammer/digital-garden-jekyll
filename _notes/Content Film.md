@@ -1,3 +1,6 @@
+---
+title: "Content Film"
+---
 <%*
 const title = await tp.system.prompt("Title?")
 const year = await tp.system.prompt("Year?")

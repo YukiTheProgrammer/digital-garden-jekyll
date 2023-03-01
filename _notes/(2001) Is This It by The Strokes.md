@@ -1,5 +1,5 @@
-
 ---
+title: "(2001) Is This It by The Strokes"
 tags: media/album
 title: "Is This It"
 artist: "The Strokes"

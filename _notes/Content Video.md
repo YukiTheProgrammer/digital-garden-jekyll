@@ -1,3 +1,6 @@
+---
+title: "Content Video"
+---
 <%*
 const title = await tp.system.prompt("Title?")
 const creator = await tp.system.prompt("Creator?")

@@ -1,3 +1,6 @@
+---
+title: "Content Album"
+---
 <%*
 const title = await tp.system.prompt("Title?")
 const artist = await tp.system.prompt("Artist?")

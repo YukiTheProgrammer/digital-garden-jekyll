@@ -1,3 +1,6 @@
+---
+title: "Gamma"
+---
 <%*
 const title = await tp.system.prompt("Title?")
 const tag = await tp.system.suggester(["idea", "term"], ["idea", "term"]) 

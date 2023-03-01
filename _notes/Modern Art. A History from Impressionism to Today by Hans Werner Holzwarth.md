@@ -1,5 +1,5 @@
-
 ---
+title: "Modern Art. A History from Impressionism to Today by Hans Werner Holzwarth"
 tags: media/book
 isbn: "3836555395"
 title: "Modern Art. A History from Impressionism to Today"

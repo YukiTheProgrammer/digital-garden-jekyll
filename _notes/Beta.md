@@ -1,3 +1,6 @@
+---
+title: "Beta"
+---
 #beta #unprocessed
 # B<% tp.date.now("YYYYMMDD")%><% tp.date.now("HHmm")%>
 ### Notes:

@@ -1,4 +1,6 @@
-
+---
+title: "Test"
+---
 #gamma/idea #seedling
 # Test
 

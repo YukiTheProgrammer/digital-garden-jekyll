@@ -1,16 +1,17 @@
+---
+title: "Content Journal"
+---
 <%*
-const ISBN = await tp.system.prompt("ISBN?")
+const DOI = await tp.system.prompt("DOI?")
 const title = await tp.system.prompt("Title?")
-const author = await tp.system.prompt("Author?")
 const APA = await tp.system.prompt("APA?")
 const MLA = await tp.system.prompt("MLA?")
-const filetitle = title + " by " + author 
+const filetitle = title
 %>
 ---
-tags: media/book
-isbn: "<% ISBN %>"
+tags: media/journal
+doi: "<% DOI %>"
 title: "<% title %>"
-author: "<% author %>"
 ---
 # <% filetitle %>
 ### Quick Summary:
@@ -29,4 +30,4 @@ author: "<% author %>"
 list from [[<% filetitle %>]]
 ```
 
-<% await tp.file.move("/Media/Books/" + filetitle) %>
+<% await tp.file.move("/Media/Journals/" + filetitle) %>

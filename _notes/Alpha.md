@@ -1,3 +1,6 @@
+---
+title: "Alpha"
+---
 #alpha #unprocessed
 # A<% tp.date.now("YYYYMMDD")%><% tp.date.now("HHmm")%>
 <% await tp.file.rename("A"+tp.date.now("YYYYMMDD")+tp.date.now("HHmm")) %>
