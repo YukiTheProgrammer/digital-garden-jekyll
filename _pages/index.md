@@ -18,10 +18,10 @@ The easiest way to get started is to read this [step-by-step guide explaining ho
 <strong>Recently updated notes</strong>
 
 <ul>
-  {% assign recent_notes = site.notes | sort: "last_modified_at_timestamp" | reverse %}
-  {% for note in recent_notes | limit: 5 %}
+  {% assign recent_notes = site.notes%}
+  {% for note in recent_notes %}
     <li>
-      {{ note.last_modified_at | date: "%Y-%m-%d" }} — <a class="internal-link" href="{{ note.url }}">{{ note.title }}</a>
+      <a class="internal-link" href="{{ note.url }}"> {{ note.title }} </a>
     </li>
   {% endfor %}
 </ul>
